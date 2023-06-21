@@ -26,3 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danish2op&show_icons=true&locale=en&layout=compact" alt="danish2op" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danish2op&show_icons=true&locale=en" alt="danish2op" /></p>
+<div align="center">
+    <a href="https://github.com/HoneyTyagii">
+      <img src="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+    </a>
+</div>
