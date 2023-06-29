@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish2op&label=Profile%20views&color=0e75b6&style=flat" alt="danish2op" /> </p>
 
-- 🌱 I’m currently learning **Python, R, ML, DSA**
+- 🌱 I’m currently learning **WebDEV, Python, R, ML, DSA**
 
 - 💬 Ask me about **C, C++, OOPS**
 
