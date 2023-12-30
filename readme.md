@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danish2op" alt="danish2op" /></a> </p>
 
-- 🌱 I’m currently learning **Python, R, ML, DSA**
+- 🌱 I’m currently learning **R, ML, DSA, Django**
 
-- 💬 Ask me about **C, C++, OOPS**
+- 💬 Ask me about **C, C++, Python, OOPS**
 
 - 📫 How to reach me **dsharma2_be22@thapar.edu**
 
